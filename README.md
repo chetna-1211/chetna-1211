@@ -1,18 +1,18 @@
-# Hi, I'm Chetna Choudhari 👋
+# Hi, I'm Chetna Choudhari
 
-🎓 **Master of Business Analytics candidate | Macquarie University, Sydney**  
-📊 **Business analysis · Data analytics · Business intelligence · Consulting**
+**Master of Business Analytics candidate | Macquarie University, Sydney**  
+**Business analysis · Data analytics · Business intelligence · Consulting**
 
 I enjoy translating business questions and complex datasets into clear insights, usable dashboards and evidence-based recommendations. My background combines academic analytics projects, financial-services operations and recruitment coordination.
 
-## 🛠️ Tools and skills
+## Tools and skills
 
 - **Data and programming:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel
 - **BI and visualisation:** Power BI (DAX), Qlik Sense, Tableau, interactive dashboards and KPI reporting
 - **Business analysis:** requirements interpretation, process tracking, technology evaluation, research and stakeholder coordination
 - **Methods:** data preparation, exploratory data analysis, statistical testing and predictive modelling
 
-## 📌 Selected projects
+## Selected projects
 
 | Project | What I worked on |
 | --- | --- |
@@ -23,18 +23,19 @@ I enjoy translating business questions and complex datasets into clear insights,
 
 Explore the full project case studies on my **[portfolio website](https://chetna-1211.github.io/)**. I am adding supporting project documentation and approved code to individual repositories.
 
-## 🏆 Research and recognition
+## Research and recognition
 
 Contributed research and Excel analysis to *Investing for a Sustainable Future: Redefining the US Market Through Innovation and Smart Decisions*, published in the XXXI International Economics Convention (2023) proceedings. Our team received **Best Paper** and **Best Presentation** recognition.
 
-## 💼 Experience
+## Experience
 
 - **Tata Consultancy Services — BPS Trainee:** Reviewed financial records, investigated discrepancies and tracked customer-account workflow steps.
 - **AVP HR Solutions — HR Executive Intern:** Sourced candidates, carried out preliminary phone screenings and coordinated interviews.
 
-## 🤝 Connect
+## Connect
 
-- 🌐 [Portfolio](https://chetna-1211.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/chetnachoudhari/)
+-  [Portfolio](https://chetna-1211.github.io/)
+-  [LinkedIn](https://www.linkedin.com/in/chetnachoudhari/)
 
-📍 Sydney, Australia · Open to graduate and junior Business Analyst, Data/BI Analyst and Consulting opportunities across Australia.
+## Location: 
+Sydney, Australia · Open to graduate and junior Business Analyst, Data/BI Analyst and Consulting opportunities across Australia.
